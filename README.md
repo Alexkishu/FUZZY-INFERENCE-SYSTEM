@@ -1,2 +1,2 @@
 # FUZZY-INFERENCE-SYSTEM
-This Project is done by me where i create a FUZZY LOGIC BASED AUTOMATED PUBLIC LIGHTING SYSTEM 
+This Project is done by me where I created a FUZZY LOGIC BASED AUTOMATED PUBLIC LIGHTING SYSTEM 
